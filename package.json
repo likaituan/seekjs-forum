@@ -1,0 +1,20 @@
+{
+  "name": "seekjs-forum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "nobox.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seekjs/seekjs-forum.git"
+  },
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seekjs/seekjs-forum/issues"
+  },
+  "homepage": "https://github.com/seekjs/seekjs-forum#readme"
+}
